@@ -4,4 +4,7 @@ report: Rmd/report.Rmd figs/barchart.png
 figs/barchart.png: R/barchart.R
 	Rscript R/barchart.R
 
+restore: renv.lock
+  Rscript -e "renv::restore(prompt = FALSE)"
+
 .PHONY: report
