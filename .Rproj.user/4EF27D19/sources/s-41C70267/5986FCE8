@@ -1,0 +1,27 @@
+{
+    "id": "5986FCE8",
+    "path": "~/Downloads/example_project/R/R_subdir/R_subdir_test.R",
+    "project_path": "R/R_subdir/R_subdir_test.R",
+    "type": "r_source",
+    "hash": "2183252256",
+    "contents": "",
+    "dirty": false,
+    "created": 1652124850239.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Sourcekdorbj6szgg6",
+        "cursorPosition": "0,19",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1652125111,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1652125111507,
+    "read_only": false,
+    "read_only_alternatives": []
+}
