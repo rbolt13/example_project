@@ -1,3 +1,0 @@
-here::iam("R/test.R")
-
-here::here("figs", "my_file_name.pdf")

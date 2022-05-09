@@ -1,3 +1,0 @@
-here::iam("R_subdir/R_subdir_test.R")
-
-here::here()
