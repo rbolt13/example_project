@@ -1,0 +1,13 @@
+---
+name: "example project"
+output_dir: "docs"
+output:
+  html_document:
+navbar:
+  title: "example project"
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Contact"
+      href: contact.html
+---
