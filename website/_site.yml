@@ -1,6 +1,6 @@
 ---
 name: "example project"
-output_dir: "docs"
+output_dir: "../docs"
 output:
   html_document:
 navbar:
