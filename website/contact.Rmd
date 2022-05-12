@@ -10,4 +10,4 @@ output:
     theme: journal
 ---
 
-example contact page. 
+example contact page!
